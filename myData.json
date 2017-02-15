@@ -1,0 +1,7 @@
+﻿{
+  dataA =' [{"name": "Steve", "password": "1a2B3", "Question": "How old are you?", "Answer": "13"}]',
+
+  dataB =' [{"name": "Victor", "assign": "JSON",  "date": "2/14/21017"}]';
+
+  dataC =' {"name":"John", "age":30, "cars":[  "Ford", "BMW", "Fiat" ]} ';
+}
